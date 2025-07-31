@@ -1,6 +1,6 @@
-# What is Project Antropic?
+# Who are we?
 
-It's a project created to show people what can be made in Minecraft, combining custom server software build from scratch and incredible works of art made with precision to bring an MMORPG like feeling to Minecraft Vanilla server. We gathered the most talented and inspired players and fans.
+A group of developers, builder and artists working to create new experiences for Minecraft players. Our goal is to show people what can be made possible in the lastest versions of the game.
 
 ## Our achievements
 
